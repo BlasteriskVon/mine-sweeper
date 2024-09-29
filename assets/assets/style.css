@@ -1,0 +1,19 @@
+button {
+    height: 100%;
+    width: 100%;
+}
+.col-lg-1 {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    height: 95px;
+}
+button:disabled{
+    color:blue;
+}
+.clicked {
+    font-size: 50px;
+}
+/* .remaining {
+    font-size: 50px;
+} */
